@@ -2,8 +2,6 @@
 
 from sys import argv
 import cv2
-import numpy as np
-
 
 def _args():
     if len(argv) != 4:
@@ -27,6 +25,7 @@ def negative(image):
 
 def reduce(image):
 
+    # Reducing intensity interval to [100, 200]
     image = image / 2.56 + 100
     image = image.astype(int)
 
