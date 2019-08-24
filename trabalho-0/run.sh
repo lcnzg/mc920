@@ -35,3 +35,9 @@ for name in "${images[@]}"
 do
     ./brightness.py 3.5 input/${name}.png output/${name}-brightness-3.5.png
 done
+
+# Bit plane
+for bits in {0..7}
+do
+    ./bits.py ${bits} input/${images[0]}.png output/${images[0]}-plane-${bits}.png
+done
