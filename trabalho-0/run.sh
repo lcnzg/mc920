@@ -41,3 +41,10 @@ for bits in {0..7}
 do
     ./bits.py ${bits} input/${images[0]}.png output/${images[0]}-plane-${bits}.png
 done
+
+# Mosaic
+for name in "${images[@]}"
+do
+    ./mosaic.py "6,11,13,3,8,16,1,9,12,14,2,7,4,15,10,5" input/${name}.png output/${name}-mosaic.png
+done
+
