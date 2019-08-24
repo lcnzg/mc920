@@ -48,3 +48,8 @@ do
     ./mosaic.py "6,11,13,3,8,16,1,9,12,14,2,7,4,15,10,5" input/${name}.png output/${name}-mosaic.png
 done
 
+# Combine
+for percentage in {2..8}
+do
+    ./combine.py 0.${percentage} input/${images[0]}.png input/${images[1]}.png output/${images[0]}-${images[1]}-0.${percentage}.png
+done
