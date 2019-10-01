@@ -1,0 +1,616 @@
+baboon-global
+
+real	0m0.755s
+user	0m0.891s
+sys	0m0.190s
+---
+output/baboon-global.png
+Black percentage: 47.19%
+White percentage: 52.81%
+---
+
+baboon-bernsen
+
+real	0m6.271s
+user	0m6.390s
+sys	0m0.212s
+---
+output/baboon-bernsen.png
+Black percentage: 52.11%
+White percentage: 47.89%
+---
+
+baboon-niblack
+
+real	0m14.535s
+user	0m14.691s
+sys	0m0.172s
+---
+output/baboon-niblack.png
+Black percentage: 95.28%
+White percentage: 4.72%
+---
+
+baboon-sp
+
+real	0m18.041s
+user	0m18.150s
+sys	0m0.192s
+---
+output/baboon-sp.png
+Black percentage: 4.00%
+White percentage: 96.00%
+---
+
+baboon-pms
+
+real	0m26.947s
+user	0m26.795s
+sys	0m0.392s
+---
+output/baboon-pms.png
+Black percentage: 99.93%
+White percentage: 0.07%
+---
+
+baboon-contraste
+
+real	0m6.332s
+user	0m6.389s
+sys	0m0.188s
+---
+output/baboon-contraste.png
+Black percentage: 52.11%
+White percentage: 47.89%
+---
+
+baboon-media
+
+real	0m7.025s
+user	0m7.112s
+sys	0m0.136s
+---
+output/baboon-media.png
+Black percentage: 50.85%
+White percentage: 49.15%
+---
+
+baboon-mediana
+
+real	0m15.928s
+user	0m15.965s
+sys	0m0.176s
+---
+output/baboon-mediana.png
+Black percentage: 54.26%
+White percentage: 45.74%
+---
+
+fiducial-global
+
+real	0m1.186s
+user	0m1.263s
+sys	0m0.153s
+---
+output/fiducial-global.png
+Black percentage: 61.98%
+White percentage: 38.02%
+---
+
+fiducial-bernsen
+
+real	0m8.610s
+user	0m8.540s
+sys	0m0.307s
+---
+output/fiducial-bernsen.png
+Black percentage: 63.54%
+White percentage: 36.46%
+---
+
+fiducial-niblack
+
+real	0m22.850s
+user	0m22.830s
+sys	0m0.232s
+---
+output/fiducial-niblack.png
+Black percentage: 98.58%
+White percentage: 1.42%
+---
+
+fiducial-sp
+
+real	0m23.400s
+user	0m23.440s
+sys	0m0.168s
+---
+output/fiducial-sp.png
+Black percentage: 5.15%
+White percentage: 94.85%
+---
+
+fiducial-pms
+
+real	0m29.333s
+user	0m29.302s
+sys	0m0.196s
+---
+output/fiducial-pms.png
+Black percentage: 70.90%
+White percentage: 29.10%
+---
+
+fiducial-contraste
+
+real	0m8.336s
+user	0m8.313s
+sys	0m0.132s
+---
+output/fiducial-contraste.png
+Black percentage: 63.54%
+White percentage: 36.46%
+---
+
+fiducial-media
+
+real	0m6.514s
+user	0m6.600s
+sys	0m0.170s
+---
+output/fiducial-media.png
+Black percentage: 60.02%
+White percentage: 39.98%
+---
+
+fiducial-mediana
+
+real	0m14.350s
+user	0m14.461s
+sys	0m0.208s
+---
+output/fiducial-mediana.png
+Black percentage: 75.66%
+White percentage: 24.34%
+---
+
+monarch-global
+
+real	0m1.244s
+user	0m1.334s
+sys	0m0.140s
+---
+output/monarch-global.png
+Black percentage: 77.94%
+White percentage: 22.06%
+---
+
+monarch-bernsen
+
+real	0m9.818s
+user	0m9.886s
+sys	0m0.156s
+---
+output/monarch-bernsen.png
+Black percentage: 54.01%
+White percentage: 45.99%
+---
+
+monarch-niblack
+
+real	0m26.730s
+user	0m26.750s
+sys	0m0.196s
+---
+output/monarch-niblack.png
+Black percentage: 96.75%
+White percentage: 3.25%
+---
+
+monarch-sp
+
+real	0m29.457s
+user	0m29.447s
+sys	0m0.216s
+---
+output/monarch-sp.png
+Black percentage: 2.44%
+White percentage: 97.56%
+---
+
+monarch-pms
+
+real	0m37.080s
+user	0m37.061s
+sys	0m0.200s
+---
+output/monarch-pms.png
+Black percentage: 100.00%
+White percentage: 0.00%
+---
+
+monarch-contraste
+
+real	0m8.992s
+user	0m9.077s
+sys	0m0.156s
+---
+output/monarch-contraste.png
+Black percentage: 54.01%
+White percentage: 45.99%
+---
+
+monarch-media
+
+real	0m9.920s
+user	0m9.978s
+sys	0m0.165s
+---
+output/monarch-media.png
+Black percentage: 50.97%
+White percentage: 49.03%
+---
+
+monarch-mediana
+
+real	0m20.292s
+user	0m20.381s
+sys	0m0.116s
+---
+output/monarch-mediana.png
+Black percentage: 60.49%
+White percentage: 39.51%
+---
+
+peppers-global
+
+real	0m1.078s
+user	0m1.160s
+sys	0m0.178s
+---
+output/peppers-global.png
+Black percentage: 52.95%
+White percentage: 47.05%
+---
+
+peppers-bernsen
+
+real	0m9.607s
+user	0m9.713s
+sys	0m0.220s
+---
+output/peppers-bernsen.png
+Black percentage: 50.94%
+White percentage: 49.06%
+---
+
+peppers-niblack
+
+real	0m21.808s
+user	0m21.907s
+sys	0m0.176s
+---
+output/peppers-niblack.png
+Black percentage: 95.42%
+White percentage: 4.58%
+---
+
+peppers-sp
+
+real	0m25.532s
+user	0m25.527s
+sys	0m0.216s
+---
+output/peppers-sp.png
+Black percentage: 1.97%
+White percentage: 98.03%
+---
+
+peppers-pms
+
+real	0m34.044s
+user	0m34.091s
+sys	0m0.168s
+---
+output/peppers-pms.png
+Black percentage: 100.00%
+White percentage: 0.00%
+---
+
+peppers-contraste
+
+real	0m8.798s
+user	0m8.825s
+sys	0m0.212s
+---
+output/peppers-contraste.png
+Black percentage: 50.94%
+White percentage: 49.06%
+---
+
+peppers-media
+
+real	0m12.366s
+user	0m12.377s
+sys	0m0.180s
+---
+output/peppers-media.png
+Black percentage: 49.21%
+White percentage: 50.79%
+---
+
+peppers-mediana
+
+real	0m20.205s
+user	0m20.169s
+sys	0m0.256s
+---
+output/peppers-mediana.png
+Black percentage: 57.02%
+White percentage: 42.98%
+---
+
+retina-global
+
+real	0m0.620s
+user	0m0.637s
+sys	0m0.115s
+---
+output/retina-global.png
+Black percentage: 84.75%
+White percentage: 15.25%
+---
+
+retina-bernsen
+
+real	0m2.146s
+user	0m2.188s
+sys	0m0.148s
+---
+output/retina-bernsen.png
+Black percentage: 59.69%
+White percentage: 40.31%
+---
+
+retina-niblack
+
+real	0m4.082s
+user	0m4.206s
+sys	0m0.204s
+---
+output/retina-niblack.png
+Black percentage: 94.64%
+White percentage: 5.36%
+---
+
+retina-sp
+
+real	0m3.804s
+user	0m3.960s
+sys	0m0.172s
+---
+output/retina-sp.png
+Black percentage: 2.93%
+White percentage: 97.07%
+---
+
+retina-pms
+
+real	0m5.789s
+user	0m5.915s
+sys	0m0.192s
+---
+output/retina-pms.png
+Black percentage: 99.59%
+White percentage: 0.41%
+---
+
+retina-contraste
+
+real	0m2.024s
+user	0m2.008s
+sys	0m0.175s
+---
+output/retina-contraste.png
+Black percentage: 59.69%
+White percentage: 40.31%
+---
+
+retina-media
+
+real	0m1.689s
+user	0m1.749s
+sys	0m0.124s
+---
+output/retina-media.png
+Black percentage: 53.91%
+White percentage: 46.09%
+---
+
+retina-mediana
+
+real	0m2.865s
+user	0m3.011s
+sys	0m0.160s
+---
+output/retina-mediana.png
+Black percentage: 55.47%
+White percentage: 44.53%
+---
+
+sonnet-global
+
+real	0m0.621s
+user	0m0.760s
+sys	0m0.182s
+---
+output/sonnet-global.png
+Black percentage: 52.06%
+White percentage: 47.94%
+---
+
+sonnet-bernsen
+
+real	0m4.548s
+user	0m4.674s
+sys	0m0.196s
+---
+output/sonnet-bernsen.png
+Black percentage: 59.07%
+White percentage: 40.93%
+---
+
+sonnet-niblack
+
+real	0m12.906s
+user	0m12.948s
+sys	0m0.132s
+---
+output/sonnet-niblack.png
+Black percentage: 97.97%
+White percentage: 2.03%
+---
+
+sonnet-sp
+
+real	0m14.320s
+user	0m14.426s
+sys	0m0.196s
+---
+output/sonnet-sp.png
+Black percentage: 0.00%
+White percentage: 100.00%
+---
+
+sonnet-pms
+
+real	0m17.067s
+user	0m17.079s
+sys	0m0.288s
+---
+output/sonnet-pms.png
+Black percentage: 98.54%
+White percentage: 1.46%
+---
+
+sonnet-contraste
+
+real	0m5.309s
+user	0m5.398s
+sys	0m0.144s
+---
+output/sonnet-contraste.png
+Black percentage: 59.07%
+White percentage: 40.93%
+---
+
+sonnet-media
+
+real	0m5.819s
+user	0m5.939s
+sys	0m0.176s
+---
+output/sonnet-media.png
+Black percentage: 54.45%
+White percentage: 45.55%
+---
+
+sonnet-mediana
+
+real	0m12.395s
+user	0m12.417s
+sys	0m0.268s
+---
+output/sonnet-mediana.png
+Black percentage: 82.42%
+White percentage: 17.58%
+---
+
+wedge-global
+
+real	0m0.856s
+user	0m0.988s
+sys	0m0.119s
+---
+output/wedge-global.png
+Black percentage: 60.95%
+White percentage: 39.05%
+---
+
+wedge-bernsen
+
+real	0m5.148s
+user	0m5.200s
+sys	0m0.160s
+---
+output/wedge-bernsen.png
+Black percentage: 61.35%
+White percentage: 38.65%
+---
+
+wedge-niblack
+
+real	0m12.943s
+user	0m13.043s
+sys	0m0.168s
+---
+output/wedge-niblack.png
+Black percentage: 96.24%
+White percentage: 3.76%
+---
+
+wedge-sp
+
+real	0m13.510s
+user	0m13.601s
+sys	0m0.180s
+---
+output/wedge-sp.png
+Black percentage: 0.00%
+White percentage: 100.00%
+---
+
+wedge-pms
+
+real	0m14.490s
+user	0m14.618s
+sys	0m0.184s
+---
+output/wedge-pms.png
+Black percentage: 99.11%
+White percentage: 0.89%
+---
+
+wedge-contraste
+
+real	0m4.747s
+user	0m4.792s
+sys	0m0.251s
+---
+output/wedge-contraste.png
+Black percentage: 61.35%
+White percentage: 38.65%
+---
+
+wedge-media
+
+real	0m3.933s
+user	0m4.070s
+sys	0m0.148s
+---
+output/wedge-media.png
+Black percentage: 54.54%
+White percentage: 45.46%
+---
+
+wedge-mediana
+
+real	0m8.233s
+user	0m8.365s
+sys	0m0.200s
+---
+output/wedge-mediana.png
+Black percentage: 73.57%
+White percentage: 26.43%
+---
+
