@@ -1,0 +1,119 @@
+objetos1
+número de regiões: 17
+
+região 0:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 1:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 2:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 3:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 4:  área: 2399  perímetro: 193.656854  excentricidade: 0.000000  solidez: 1.000000
+região 5:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 6:  área: 322  perímetro: 69.656854  excentricidade: 0.000001  solidez: 1.000000
+região 7:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 8:  área: 322  perímetro: 69.656854  excentricidade: 0.000001  solidez: 1.000000
+região 9:  área: 322  perímetro: 69.656854  excentricidade: 0.000000  solidez: 1.000000
+região 10:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 11:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 12:  área: 322  perímetro: 69.656854  excentricidade: 0.000001  solidez: 1.000000
+região 13:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 14:  área: 2399  perímetro: 193.656854  excentricidade: 0.000000  solidez: 1.000000
+região 15:  área: 2448  perímetro: 195.656854  excentricidade: 0.198994  solidez: 1.000000
+região 16:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+
+número de regiõoes pequenas: 9
+número de regiõoes médias: 8
+número de regiõoes grandes: 0
+
+real    0m1.238s
+user    0m1.392s
+sys     0m0.392s
+
+objetos2
+número de regiões: 58
+
+região 0:  área: 880  perímetro: 144.083260  excentricidade: 0.814760  solidez: 0.967033
+região 1:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 2:  área: 1072  perímetro: 124.509666  excentricidade: 0.621976  solidez: 1.000000
+região 3:  área: 1120  perímetro: 131.656854  excentricidade: 0.240734  solidez: 1.000000
+região 4:  área: 4724  perímetro: 256.936074  excentricidade: 0.065740  solidez: 0.989423
+região 5:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 6:  área: 849  perímetro: 144.911687  excentricidade: 0.814203  solidez: 0.956620
+região 7:  área: 322  perímetro: 82.911687  excentricidade: 0.811848  solidez: 1.000000
+região 8:  área: 452  perímetro: 79.597979  excentricidade: 0.109590  solidez: 0.977297
+região 9:  área: 1168  perímetro: 163.656854  excentricidade: 0.960881  solidez: 1.000000
+região 10:  área: 322  perímetro: 69.656854  excentricidade: 0.000000  solidez: 1.000000
+região 11:  área: 1631  perímetro: 187.923880  excentricidade: 0.890661  solidez: 0.981944
+região 12:  área: 592  perímetro: 99.656854  excentricidade: 0.838082  solidez: 1.000000
+região 13:  área: 1615  perímetro: 161.656854  excentricidade: 0.739200  solidez: 1.000000
+região 14:  área: 130  perímetro: 42.627416  excentricidade: 0.137038  solidez: 0.977444
+região 15:  área: 1120  perímetro: 131.656854  excentricidade: 0.240734  solidez: 1.000000
+região 16:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 17:  área: 129  perímetro: 42.041630  excentricidade: 0.290813  solidez: 0.988550
+região 18:  área: 3183  perímetro: 225.656854  excentricidade: 0.657046  solidez: 1.000000
+região 19:  área: 322  perímetro: 69.656854  excentricidade: 0.000001  solidez: 1.000000
+região 20:  área: 880  perímetro: 131.656854  excentricidade: 0.930062  solidez: 1.000000
+região 21:  área: 128  perímetro: 43.455843  excentricidade: 0.204656  solidez: 0.955224
+região 22:  área: 450  perímetro: 79.597979  excentricidade: 0.041542  solidez: 0.976139
+região 23:  área: 337  perímetro: 82.083260  excentricidade: 0.806733  solidez: 1.000000
+região 24:  área: 1647  perímetro: 188.752307  excentricidade: 0.500908  solidez: 0.982116
+região 25:  área: 2480  perímetro: 186.994948  excentricidade: 0.061623  solidez: 0.984713
+região 26:  área: 1423  perímetro: 206.083260  excentricidade: 0.937035  solidez: 0.959541
+região 27:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 28:  área: 1919  perímetro: 257.656854  excentricidade: 0.988616  solidez: 1.000000
+região 29:  área: 1154  perímetro: 133.656854  excentricidade: 0.000000  solidez: 1.000000
+região 30:  área: 129  perímetro: 42.041630  excentricidade: 0.290813  solidez: 0.988550
+região 31:  área: 322  perímetro: 69.656854  excentricidade: 0.000000  solidez: 1.000000
+região 32:  área: 129  perímetro: 43.455843  excentricidade: 0.239474  solidez: 0.959108
+região 33:  área: 304  perímetro: 80.083260  excentricidade: 0.812889  solidez: 1.000000
+região 34:  área: 1120  perímetro: 131.656854  excentricidade: 0.240734  solidez: 1.000000
+região 35:  área: 1647  perímetro: 153.195958  excentricidade: 0.116203  solidez: 0.978029
+região 36:  área: 1120  perímetro: 131.656854  excentricidade: 0.240734  solidez: 1.000000
+região 37:  área: 848  perímetro: 131.656854  excentricidade: 0.940404  solidez: 1.000000
+região 38:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 39:  área: 880  perímetro: 144.083260  excentricidade: 0.814760  solidez: 0.967033
+região 40:  área: 1087  perímetro: 125.095453  excentricidade: 0.630413  solidez: 1.000000
+região 41:  área: 1168  perímetro: 163.656854  excentricidade: 0.960881  solidez: 1.000000
+região 42:  área: 304  perímetro: 67.656854  excentricidade: 0.328560  solidez: 1.000000
+região 43:  área: 322  perímetro: 82.911687  excentricidade: 0.811848  solidez: 1.000000
+região 44:  área: 129  perímetro: 42.627417  excentricidade: 0.267964  solidez: 0.977273
+região 45:  área: 878  perímetro: 143.497474  excentricidade: 0.813171  solidez: 0.967511
+região 46:  área: 1088  perímetro: 125.923880  excentricidade: 0.632653  solidez: 1.000000
+região 47:  área: 1087  perímetro: 129.656854  excentricidade: 0.000000  solidez: 1.000000
+região 48:  área: 1640  perímetro: 152.367531  excentricidade: 0.095985  solidez: 0.980861
+região 49:  área: 452  perímetro: 79.597979  excentricidade: 0.125433  solidez: 0.977297
+região 50:  área: 2498  perímetro: 197.656854  excentricidade: 0.000000  solidez: 1.000000
+região 51:  área: 880  perímetro: 131.656854  excentricidade: 0.930062  solidez: 1.000000
+região 52:  área: 322  perímetro: 82.911687  excentricidade: 0.811848  solidez: 1.000000
+região 53:  área: 304  perímetro: 80.083260  excentricidade: 0.812889  solidez: 1.000000
+região 54:  área: 2208  perímetro: 195.656854  excentricidade: 0.852277  solidez: 1.000000
+região 55:  área: 304  perímetro: 80.083260  excentricidade: 0.812889  solidez: 1.000000
+região 56:  área: 1456  perímetro: 195.656854  excentricidade: 0.974990  solidez: 1.000000
+região 57:  área: 322  perímetro: 69.656854  excentricidade: 0.000000  solidez: 1.000000
+
+número de regiõoes pequenas: 47
+número de regiõoes médias: 9
+número de regiõoes grandes: 2
+
+real    0m1.180s
+user    0m1.338s
+sys     0m0.394s
+
+objetos3
+número de regiões: 9
+
+região 0:  área: 4107  perímetro: 319.421354  excentricidade: 0.813036  solidez: 0.754963
+região 1:  área: 843  perímetro: 125.639609  excentricidade: 0.735146  solidez: 0.904558
+região 2:  área: 3690  perímetro: 265.119838  excentricidade: 0.896234  solidez: 0.978264
+região 3:  área: 584  perímetro: 104.911687  excentricidade: 0.882918  solidez: 0.913928
+região 4:  área: 478  perímetro: 94.426406  excentricidade: 0.850570  solidez: 0.925460
+região 5:  área: 1761  perímetro: 179.781745  excentricidade: 0.864278  solidez: 0.971862
+região 6:  área: 688  perímetro: 108.669047  excentricidade: 0.882704  solidez: 0.972458
+região 7:  área: 4067  perímetro: 311.078208  excentricidade: 0.908225  solidez: 0.780689
+região 8:  área: 716  perímetro: 101.982755  excentricidade: 0.610530  solidez: 0.980164
+
+número de regiõoes pequenas: 5
+número de regiõoes médias: 1
+número de regiõoes grandes: 3
+
+real    0m1.053s
+user    0m1.317s
+sys     0m0.302s
