@@ -21,6 +21,7 @@ def _args():
 def compression(img, k):
     _, _, c = img.shape
     img = img.astype(np.float64)
+    out = np.zeros_like(img)
 
     for i in range(c):
         u, s, vh = np.linalg.svd(img[:, :, i], full_matrices=False)
@@ -29,9 +30,9 @@ def compression(img, k):
         s = s[:k]
         vh = vh[:k, :]
 
-        img[:, :, i] = (u * s) @ vh
+        out[:, :, i] = (u * s) @ vh
 
-    return img
+    return out
 
 def evaluation(img_in, file_in, img_out, file_out):
 
